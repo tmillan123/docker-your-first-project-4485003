@@ -6,6 +6,8 @@
 
 - Build our docker image in branch 02_02.
 
+      docker build .
+
 ## Lesson 3.2 - Docker Images
 
 - Learned the difference between an image and a container.
