@@ -1,5 +1,7 @@
 ## Lesson 2.1 - dockerfile
 
+- Edited the dockerfile in branch 02_01.
+
 ## Lesson 3.2 - Docker Images
 
 - Learned the difference between an image and a container.
