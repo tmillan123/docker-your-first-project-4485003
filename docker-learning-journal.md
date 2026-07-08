@@ -1,3 +1,5 @@
+## Lesson 2.1 - dockerfile
+
 ## Lesson 3.2 - Docker Images
 
 - Learned the difference between an image and a container.
