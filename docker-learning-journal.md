@@ -6,7 +6,9 @@
 
 - Build our docker image in branch 02_02.
 
-      docker build .
+     $ docker build .
+  or:
+     $ docker build --force-rm=true .
 
 ## Lesson 3.2 - Docker Images
 
