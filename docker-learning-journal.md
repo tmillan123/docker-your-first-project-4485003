@@ -39,4 +39,12 @@ docker run...
 
 ## Lesson 4_2 - Listing containers
 
+## Lesson 4_3 - Inspecting a container
+
+## Lesson 4_4 - Reviewing log files
+
+## Lesson 4_5 - Volumes and mounts
+
+## Lesson 4_6 - Keeping resources clean
+
 
